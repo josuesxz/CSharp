@@ -1,0 +1,14 @@
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\bin\Debug\net8.0\hello_world_00.exe
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\bin\Debug\net8.0\hello_world_00.deps.json
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\bin\Debug\net8.0\hello_world_00.runtimeconfig.json
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\bin\Debug\net8.0\hello_world_00.dll
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\bin\Debug\net8.0\hello_world_00.pdb
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\obj\Debug\net8.0\hello_world_00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\obj\Debug\net8.0\hello_world_00.AssemblyInfoInputs.cache
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\obj\Debug\net8.0\hello_world_00.AssemblyInfo.cs
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\obj\Debug\net8.0\hello_world_00.csproj.CoreCompileInputs.cache
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\obj\Debug\net8.0\hello_world_00.dll
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\obj\Debug\net8.0\refint\hello_world_00.dll
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\obj\Debug\net8.0\hello_world_00.pdb
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\obj\Debug\net8.0\hello_world_00.genruntimeconfig.cache
+C:\Users\Iatecam\Desktop\hello_world_00\hello_world_00\obj\Debug\net8.0\ref\hello_world_00.dll

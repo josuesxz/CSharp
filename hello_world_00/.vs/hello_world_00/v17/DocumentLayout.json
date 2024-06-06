@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iatecam\\Desktop\\hello_world_00\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{972D6421-4435-4F25-A860-4DB1C96BE6D5}|hello_world_00\\hello_world_00.csproj|c:\\users\\iatecam\\desktop\\hello_world_00\\hello_world_00\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972D6421-4435-4F25-A860-4DB1C96BE6D5}|hello_world_00\\hello_world_00.csproj|solutionrelative:hello_world_00\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{972D6421-4435-4F25-A860-4DB1C96BE6D5}|hello_world_00\\hello_world_00.csproj|C:\\Users\\Iatecam\\Desktop\\hello_world_00\\hello_world_00\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972D6421-4435-4F25-A860-4DB1C96BE6D5}|hello_world_00\\hello_world_00.csproj|solutionrelative:hello_world_00\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Iatecam\\Desktop\\hello_world_00\\hello_world_00\\Calculator.cs",
+              "RelativeDocumentMoniker": "hello_world_00\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Iatecam\\Desktop\\hello_world_00\\hello_world_00\\Calculator.cs",
+              "RelativeToolTip": "hello_world_00\\Calculator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:48:41.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Iatecam\\Desktop\\hello_world_00\\hello_world_00\\Program.cs",
+              "RelativeDocumentMoniker": "hello_world_00\\Program.cs",
+              "ToolTip": "C:\\Users\\Iatecam\\Desktop\\hello_world_00\\hello_world_00\\Program.cs",
+              "RelativeToolTip": "hello_world_00\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:46:47.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

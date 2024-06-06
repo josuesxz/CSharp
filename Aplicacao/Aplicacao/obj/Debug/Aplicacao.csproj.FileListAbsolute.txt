@@ -1,0 +1,10 @@
+C:\Users\Iatecam\Desktop\Aplicacao\Aplicacao\bin\Debug\Aplicacao.exe.config
+C:\Users\Iatecam\Desktop\Aplicacao\Aplicacao\bin\Debug\Aplicacao.exe
+C:\Users\Iatecam\Desktop\Aplicacao\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\Iatecam\Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csproj.AssemblyReference.cache
+C:\Users\Iatecam\Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.Home.resources
+C:\Users\Iatecam\Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.Properties.Resources.resources
+C:\Users\Iatecam\Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csproj.GenerateResource.cache
+C:\Users\Iatecam\Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Iatecam\Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.exe
+C:\Users\Iatecam\Desktop\Aplicacao\Aplicacao\obj\Debug\Aplicacao.pdb

@@ -1,0 +1,13 @@
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\bin\Debug\Comunica-FX5.exe.config
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\bin\Debug\Comunica-FX5.exe
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\bin\Debug\Comunica-FX5.pdb
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\bin\Debug\EasyModbus.dll
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\bin\Debug\EasyModbus.xml
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\obj\Debug\Comunica-FX5.csproj.AssemblyReference.cache
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\obj\Debug\Comunica_FX5.Form1.resources
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\obj\Debug\Comunica_FX5.Properties.Resources.resources
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\obj\Debug\Comunica-FX5.csproj.GenerateResource.cache
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\obj\Debug\Comunica-FX5.csproj.CoreCompileInputs.cache
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\obj\Debug\Comunica.33B49514.Up2Date
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\obj\Debug\Comunica-FX5.exe
+C:\Users\Iatecam\Desktop\Comunica-FX5\Comunica-FX5\obj\Debug\Comunica-FX5.pdb
