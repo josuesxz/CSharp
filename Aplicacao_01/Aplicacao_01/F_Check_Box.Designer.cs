@@ -32,6 +32,8 @@
             this.cb_aviao = new System.Windows.Forms.CheckBox();
             this.cb_navio = new System.Windows.Forms.CheckBox();
             this.cb_onibus = new System.Windows.Forms.CheckBox();
+            this.btn_transporte = new System.Windows.Forms.Button();
+            this.cb_patinete = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // cb_carro
@@ -57,7 +59,7 @@
             // cb_navio
             // 
             this.cb_navio.AutoSize = true;
-            this.cb_navio.Location = new System.Drawing.Point(29, 93);
+            this.cb_navio.Location = new System.Drawing.Point(32, 93);
             this.cb_navio.Name = "cb_navio";
             this.cb_navio.Size = new System.Drawing.Size(54, 17);
             this.cb_navio.TabIndex = 1;
@@ -74,12 +76,35 @@
             this.cb_onibus.Text = "Ônibus";
             this.cb_onibus.UseVisualStyleBackColor = true;
             // 
+            // btn_transporte
+            // 
+            this.btn_transporte.Location = new System.Drawing.Point(133, 195);
+            this.btn_transporte.Name = "btn_transporte";
+            this.btn_transporte.Size = new System.Drawing.Size(75, 23);
+            this.btn_transporte.TabIndex = 2;
+            this.btn_transporte.Text = "Transportes";
+            this.btn_transporte.UseVisualStyleBackColor = true;
+            this.btn_transporte.Click += new System.EventHandler(this.btn_transporte_Click);
+            // 
+            // cb_patinete
+            // 
+            this.cb_patinete.AutoSize = true;
+            this.cb_patinete.Location = new System.Drawing.Point(32, 165);
+            this.cb_patinete.Name = "cb_patinete";
+            this.cb_patinete.Size = new System.Drawing.Size(71, 17);
+            this.cb_patinete.TabIndex = 4;
+            this.cb_patinete.Text = "Patinente";
+            this.cb_patinete.UseVisualStyleBackColor = true;
+            this.cb_patinete.CheckedChanged += new System.EventHandler(this.cb_patinete_CheckedChanged);
+            // 
             // F_Check_Box
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(404, 450);
+            this.Controls.Add(this.cb_patinete);
+            this.Controls.Add(this.btn_transporte);
             this.Controls.Add(this.cb_onibus);
             this.Controls.Add(this.cb_navio);
             this.Controls.Add(this.cb_aviao);
@@ -98,5 +123,7 @@
         private System.Windows.Forms.CheckBox cb_aviao;
         private System.Windows.Forms.CheckBox cb_navio;
         private System.Windows.Forms.CheckBox cb_onibus;
+        private System.Windows.Forms.Button btn_transporte;
+        private System.Windows.Forms.CheckBox cb_patinete;
     }
 }
