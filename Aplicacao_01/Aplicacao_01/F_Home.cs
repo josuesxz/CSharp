@@ -12,9 +12,11 @@ namespace Aplicacao_01
 {
     public partial class Home : Form
     {
+        public int num;
         public Home()
         {
             InitializeComponent();
+            num = 0;
         }
 
         private void btn_add_Click(object sender, EventArgs e)
@@ -38,8 +40,19 @@ namespace Aplicacao_01
 
         private void btn_mostrar_Click(object sender, EventArgs e)
         {
-            Veiculo veiculo = new Veiculo(txt_input_name.Text); //instancia o objeto que é o formulario
+            F_Veiculo veiculo = new F_Veiculo(txt_output_name.Text, this); //instancia o objeto que é o formulario
             veiculo.ShowDialog(); //ao clicar este objeto é chamado 
+        }
+
+        private void btn_val_num_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(num.ToString());
+        }
+
+        private void checkBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_Check_Box fCheckBox = new F_Check_Box();
+            fCheckBox.ShowDialog();
         }
     }
 }

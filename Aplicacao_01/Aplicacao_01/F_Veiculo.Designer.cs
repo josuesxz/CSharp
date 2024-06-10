@@ -1,6 +1,6 @@
 ﻿namespace Aplicacao_01
 {
-    partial class Veiculo
+    partial class F_Veiculo
     {
         /// <summary>
         /// Required designer variable.
@@ -58,6 +58,7 @@
             this.Name = "Veiculo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lista de veiculo";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Veiculo_FormClosed);
             this.Load += new System.EventHandler(this.Veiculo_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
