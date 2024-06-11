@@ -21,3 +21,4 @@ C:\Users\Iatecam\Desktop\CSharp\Aplicacao_01\Aplicacao_01\obj\Debug\Aplicacao_01
 C:\Users\Iatecam\Desktop\CSharp\Aplicacao_01\Aplicacao_01\obj\Debug\Aplicacao_01.pdb
 C:\Users\Iatecam\Desktop\CSharp\Aplicacao_01\Aplicacao_01\obj\Debug\Aplicacao_01.F_Check_Box.resources
 C:\Users\Iatecam\Desktop\CSharp\Aplicacao_01\Aplicacao_01\obj\Debug\Aplicacao_01.F_Veiculo.resources
+C:\Users\Iatecam\Desktop\CSharp\Aplicacao_01\Aplicacao_01\obj\Debug\Aplicacao_01.F_Checked.resources

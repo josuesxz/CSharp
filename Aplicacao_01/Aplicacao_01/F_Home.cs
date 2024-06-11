@@ -54,5 +54,11 @@ namespace Aplicacao_01
             F_Check_Box fCheckBox = new F_Check_Box();
             fCheckBox.ShowDialog();
         }
+
+        private void checkedListBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_Checked fChecked = new F_Checked();
+            fChecked.ShowDialog();
+        }
     }
 }

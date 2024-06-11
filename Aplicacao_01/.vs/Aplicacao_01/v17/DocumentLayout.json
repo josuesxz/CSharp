@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|c:\\users\\iatecam\\desktop\\csharp\\aplicacao_01\\aplicacao_01\\f_check_box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|solutionrelative:aplicacao_01\\f_check_box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|c:\\users\\iatecam\\desktop\\csharp\\aplicacao_01\\aplicacao_01\\f_check_box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|solutionrelative:aplicacao_01\\f_check_box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\aplicacao_01\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|solutionrelative:aplicacao_01\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\aplicacao_01\\f_veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|solutionrelative:aplicacao_01\\f_veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\aplicacao_01\\f_veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|solutionrelative:aplicacao_01\\f_veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|c:\\users\\iatecam\\desktop\\csharp\\aplicacao_01\\aplicacao_01\\f_checked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|solutionrelative:aplicacao_01\\f_checked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\aplicacao_01\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|solutionrelative:aplicacao_01\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|c:\\users\\iatecam\\desktop\\csharp\\aplicacao_01\\aplicacao_01\\f_checked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|solutionrelative:aplicacao_01\\f_checked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|c:\\users\\iatecam\\desktop\\csharp\\aplicacao_01\\aplicacao_01\\f_check_box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|solutionrelative:aplicacao_01\\f_check_box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\aplicacao_01\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFD1B933-A996-4077-9B51-D03A49A67220}|Aplicacao_01\\Aplicacao_01.csproj|solutionrelative:aplicacao_01\\f_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,12 +39,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "F_Checked.cs",
+              "DocumentMoniker": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Checked.cs",
+              "RelativeDocumentMoniker": "Aplicacao_01\\F_Checked.cs",
+              "ToolTip": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Checked.cs",
+              "RelativeToolTip": "Aplicacao_01\\F_Checked.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:36:00.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_Checked.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Checked.cs",
+              "RelativeDocumentMoniker": "Aplicacao_01\\F_Checked.cs",
+              "ToolTip": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Checked.cs [Design]",
+              "RelativeToolTip": "Aplicacao_01\\F_Checked.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:26:12.004Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "F_Check_Box.cs",
               "DocumentMoniker": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Check_Box.cs",
               "RelativeDocumentMoniker": "Aplicacao_01\\F_Check_Box.cs",
               "ToolTip": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Check_Box.cs",
               "RelativeToolTip": "Aplicacao_01\\F_Check_Box.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAiwCkAAAAyAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwB0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T14:36:32.88Z",
               "EditorCaption": ""
@@ -56,60 +77,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "F_Check_Box.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Check_Box.cs",
-              "RelativeDocumentMoniker": "Aplicacao_01\\F_Check_Box.cs",
-              "ToolTip": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Check_Box.cs [Design]",
-              "RelativeToolTip": "Aplicacao_01\\F_Check_Box.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T13:25:18.664Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "F_Veiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Veiculo.cs",
-              "RelativeDocumentMoniker": "Aplicacao_01\\F_Veiculo.cs",
-              "ToolTip": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Veiculo.cs",
-              "RelativeToolTip": "Aplicacao_01\\F_Veiculo.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:28:07.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "F_Veiculo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Veiculo.cs",
-              "RelativeDocumentMoniker": "Aplicacao_01\\F_Veiculo.cs",
-              "ToolTip": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Veiculo.cs [Design]",
-              "RelativeToolTip": "Aplicacao_01\\F_Veiculo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:16:38.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "F_Home.cs",
               "DocumentMoniker": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Home.cs",
               "RelativeDocumentMoniker": "Aplicacao_01\\F_Home.cs",
               "ToolTip": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Home.cs",
               "RelativeToolTip": "Aplicacao_01\\F_Home.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDYAAAAjAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwDYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:51:49.851Z"
+              "WhenOpened": "2024-06-06T16:51:49.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "F_Home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Home.cs",
               "RelativeDocumentMoniker": "Aplicacao_01\\F_Home.cs",
               "ToolTip": "C:\\Users\\Iatecam\\Desktop\\CSharp\\Aplicacao_01\\Aplicacao_01\\F_Home.cs [Design]",
               "RelativeToolTip": "Aplicacao_01\\F_Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:37:04.222Z"
+              "WhenOpened": "2024-06-06T16:37:04.222Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="F_Checked.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_Checked.Designer.cs">
+      <DependentUpon>F_Checked.cs</DependentUpon>
+    </Compile>
     <Compile Include="F_Home.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     <Compile Include="F_Veiculo.Designer.cs">
       <DependentUpon>F_Veiculo.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="F_Checked.resx">
+      <DependentUpon>F_Checked.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="F_Check_Box.resx">
       <DependentUpon>F_Check_Box.cs</DependentUpon>
     </EmbeddedResource>
